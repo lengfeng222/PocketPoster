@@ -1,0 +1,80 @@
+/* Localizable.strings - Swedish */
+
+"input_app_hash" = "Ange App Hash";
+"auto_detect" = "Automatisk identifiering";
+"waiting_app_hash" = "Väntar på App Hash...";
+"nugget_instruction" = "Anslut din enhet till datorn och klicka på 'Pocket Poster Helper'-knappen i Nugget.";
+"cancel" = "Avbryt";
+"section_app_hash" = "App Hash";
+
+"replay_tutorial" = "Spela om guiden";
+"clear_cache" = "Rensa cache";
+"cache_cleared" = "Cache rensad!";
+"error" = "Fel";
+"section_actions" = "Åtgärder";
+
+"download_shortcut" = "Ladda ner reservgenväg";
+"create_alternative" = "Skapa alternativ metod";
+"open_nugget" = "Öppna Nugget på GitHub";
+"section_links" = "Länkar";
+
+"view_on_github" = "Visa projekt på GitHub";
+"join_discord" = "Gå med i Discord-gemenskapen";
+"support_on_kofi" = "Stöd på Ko-Fi";
+"section_community" = "Gemenskap";
+
+"section_credits" = "Tack till";
+"alert_ok" = "OK";
+"unknown_error" = "Okänt fel";
+"author_lengfeng" = "Lengfeng";
+"contribution_translation" = "Översättning";
+
+"release" = "Version";
+"select_wallpapers" = "Välj bakgrundsfiler (Tendies)";
+"selected_wallpapers" = "Valda bakgrunder";
+"please_set_hash" = "Vänligen ange app-hashen för PosterBoard i inställningarna.";
+"apply" = "Tillämpa";
+"reset_collection" = "Återställ samling";
+"max_reached" = "Maxgräns nådd";
+"max_reached_body" = "Du kan endast tillämpa upp till %d bakgrunder.";
+"ok" = "OK";
+
+"onboard_welcome_title" = "Välkommen till Pocket Poster!";
+"onboard_welcome_desc" = "Denna guide hjälper dig att komma igång.";
+
+"onboard_shortcut_title" = "Installera reservgenväg (valfritt)";
+"onboard_shortcut_desc" = "Appen kommer att försöka öppna PosterBoard. Om det misslyckas kan du installera denna genväg som ett alternativ.";
+"onboard_shortcut_button" = "Hämta genväg";
+
+"onboard_nugget_title" = "Installera Nugget-verktyget";
+"onboard_nugget_desc" = "För att hämta appens Bundle ID, använd Nugget.\n\nLadda ner från GitHub på din dator.";
+"onboard_nugget_button" = "Öppna GitHub";
+
+"onboard_enjoy_title" = "Njut!";
+"onboard_enjoy_desc" = "Besök Cowabun.ga för att hitta vackra bakgrunder.";
+"onboard_enjoy_button" = "Utforska bakgrunder";
+
+"reset_title_1" = "Hur man återställer bakgrundssamlingen";
+"reset_desc_1" = "På grund av nuvarande begränsningar kan bakgrunder inte raderas direkt.\n\nDu måste följa dessa steg manuellt.";
+
+"reset_title_2" = "Öppna språkinställningar";
+"reset_desc_2" = "Gå till Inställningar > Allmänt > Språk & region.";
+
+"reset_title_3" = "Ställ in huvudspråk";
+"reset_desc_3" = "Ändra till ett annat språk,\n\noch byt sedan tillbaka till ditt ursprungliga språk.";
+
+"reset_title_4" = "Bekräfta återställning";
+"reset_desc_4" = "PosterBoard bör nu vara uppdaterad.\n\nKontrollera om samlingen har återställts.";
+
+"onboarding_skip" = "Hoppa över";
+"onboarding_next" = "Nästa";
+"onboarding_done" = "Klar";
+
+"alert_download_title" = "Ladda ner bakgrundsfil";
+"alert_download_body" = "Vill du ladda ner \"%@\"?";
+"only_tendies_supported" = "Endast .tendies-filer stöds!";
+"import_success" = "Importerade %@ framgångsrikt";
+"import_failed" = "Import misslyckades";
+"downloading" = "Laddar ner";
+"please_wait" = "Vänligen vänta...";
+"download_failed" = "Kunde inte ladda ner bakgrund!";

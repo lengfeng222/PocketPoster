@@ -1,0 +1,80 @@
+/* Localizable.strings - English (UK) */
+
+"input_app_hash" = "Input App Hash";
+"auto_detect" = "Auto Detect";
+"waiting_app_hash" = "Waiting for App Hash...";
+"nugget_instruction" = "Please connect your device to the computer and click the 'Pocket Poster Helper' button in Nugget.";
+"cancel" = "Cancel";
+"section_app_hash" = "App Hash";
+
+"replay_tutorial" = "Replay Tutorial";
+"clear_cache" = "Clear Cache";
+"cache_cleared" = "Cache Cleared!";
+"error" = "Error";
+"section_actions" = "Actions";
+
+"download_shortcut" = "Download Backup Shortcut";
+"create_alternative" = "Create Alternative Method";
+"open_nugget" = "Open Nugget GitHub";
+"section_links" = "Links";
+
+"view_on_github" = "View Project on GitHub";
+"join_discord" = "Join Discord Community";
+"support_on_kofi" = "Support on Ko-Fi";
+"section_community" = "Community";
+
+"section_credits" = "Credits";
+"alert_ok" = "OK";
+"unknown_error" = "Unknown Error";
+"author_lengfeng" = "Lengfeng";
+"contribution_translation" = "Localisation";
+
+"release" = "Release";
+"select_wallpapers" = "Select Wallpaper Files (Tendies)";
+"selected_wallpapers" = "Selected Wallpapers";
+"please_set_hash" = "Please enter the app hash of PosterBoard in Settings.";
+"apply" = "Apply";
+"reset_collection" = "Reset Collection";
+"max_reached" = "Maximum Reached";
+"max_reached_body" = "You can only apply up to %d wallpapers.";
+"ok" = "OK";
+
+"onboard_welcome_title" = "Welcome to Pocket Poster!";
+"onboard_welcome_desc" = "This tutorial will guide you through the basic usage.";
+
+"onboard_shortcut_title" = "Install Backup Shortcut (Optional)";
+"onboard_shortcut_desc" = "The app will attempt to open PosterBoard. If it fails, you can install this shortcut as an alternative.";
+"onboard_shortcut_button" = "Get Shortcut";
+
+"onboard_nugget_title" = "Install Nugget Tool";
+"onboard_nugget_desc" = "To obtain the App's Bundle ID, use Nugget.\n\nDownload it from GitHub on your computer.";
+"onboard_nugget_button" = "Open GitHub";
+
+"onboard_enjoy_title" = "Enjoy!";
+"onboard_enjoy_desc" = "Visit Cowabun.ga to explore beautiful wallpapers.";
+"onboard_enjoy_button" = "Browse Wallpapers";
+
+"reset_title_1" = "How to Reset Wallpaper Collection";
+"reset_desc_1" = "Due to current exploit limitations, wallpapers cannot be deleted directly.\n\nYou need to manually perform the following steps.";
+
+"reset_title_2" = "Open Language Settings";
+"reset_desc_2" = "Go to Settings > General > Language & Region.";
+
+"reset_title_3" = "Set Primary Language";
+"reset_desc_3" = "Change to any other language,\n\nthen switch back to your original language.";
+
+"reset_title_4" = "Verify Reset Success";
+"reset_desc_4" = "PosterBoard should now be refreshed.\n\nCheck if the collection has reverted to default.";
+
+"onboarding_skip" = "Skip";
+"onboarding_next" = "Next";
+"onboarding_done" = "Done";
+
+"alert_download_title" = "Download Wallpaper File";
+"alert_download_body" = "Do you want to download \"%@\"?";
+"only_tendies_supported" = "Only .tendies files are supported!";
+"import_success" = "Successfully imported %@";
+"import_failed" = "Import Failed";
+"downloading" = "Downloading";
+"please_wait" = "Please wait...";
+"download_failed" = "Failed to download wallpaper!";

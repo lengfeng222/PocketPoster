@@ -1,0 +1,80 @@
+/* Localizable.strings - Korean */
+
+"input_app_hash" = "앱 해시 입력";
+"auto_detect" = "자동 감지";
+"waiting_app_hash" = "앱 해시를 기다리는 중...";
+"nugget_instruction" = "기기를 컴퓨터에 연결한 후 Nugget에서 'Pocket Poster Helper' 버튼을 클릭하세요.";
+"cancel" = "취소";
+"section_app_hash" = "앱 해시";
+
+"replay_tutorial" = "튜토리얼 다시보기";
+"clear_cache" = "캐시 지우기";
+"cache_cleared" = "캐시가 삭제되었습니다!";
+"error" = "오류";
+"section_actions" = "작업";
+
+"download_shortcut" = "백업 단축어 다운로드";
+"create_alternative" = "대체 방법 생성";
+"open_nugget" = "Nugget GitHub 열기";
+"section_links" = "링크";
+
+"view_on_github" = "GitHub에서 프로젝트 보기";
+"join_discord" = "Discord 커뮤니티 참여";
+"support_on_kofi" = "Ko-Fi로 후원하기";
+"section_community" = "커뮤니티";
+
+"section_credits" = "제작진";
+"alert_ok" = "확인";
+"unknown_error" = "알 수 없는 오류";
+"author_lengfeng" = "냉풍";
+"contribution_translation" = "현지화";
+
+"release" = "출시";
+"select_wallpapers" = "배경화면 파일(Tendies) 선택";
+"selected_wallpapers" = "선택한 배경화면";
+"please_set_hash" = "설정에서 PosterBoard의 앱 해시를 입력하세요.";
+"apply" = "적용";
+"reset_collection" = "컬렉션 초기화";
+"max_reached" = "최대치 도달";
+"max_reached_body" = "최대 %d개의 배경화면만 적용할 수 있습니다.";
+"ok" = "확인";
+
+"onboard_welcome_title" = "Pocket Poster에 오신 것을 환영합니다!";
+"onboard_welcome_desc" = "이 튜토리얼은 기본 사용법을 안내합니다.";
+
+"onboard_shortcut_title" = "백업 단축어 설치(선택 사항)";
+"onboard_shortcut_desc" = "앱이 PosterBoard를 열려고 시도합니다. 실패할 경우 이 단축어를 대체로 설치하세요.";
+"onboard_shortcut_button" = "단축어 받기";
+
+"onboard_nugget_title" = "Nugget 도구 설치";
+"onboard_nugget_desc" = "앱의 번들 ID를 얻으려면 Nugget을 사용하세요.\n\n컴퓨터에서 GitHub에서 다운로드할 수 있습니다.";
+"onboard_nugget_button" = "GitHub 열기";
+
+"onboard_enjoy_title" = "즐기세요!";
+"onboard_enjoy_desc" = "Cowabun.ga에서 멋진 배경화면을 찾아보세요.";
+"onboard_enjoy_button" = "배경화면 탐색";
+
+"reset_title_1" = "배경화면 컬렉션 초기화 방법";
+"reset_desc_1" = "현재 exploit의 제한으로 배경화면을 직접 삭제할 수 없습니다.\n\n다음 단계를 수동으로 수행해야 합니다.";
+
+"reset_title_2" = "언어 설정 열기";
+"reset_desc_2" = "설정 앱 > 일반 > 언어 및 지역으로 이동합니다.";
+
+"reset_title_3" = "기본 언어 설정";
+"reset_desc_3" = "다른 언어로 변경한 다음,\n\n원래 언어로 다시 전환하세요.";
+
+"reset_title_4" = "초기화 성공 여부 확인";
+"reset_desc_4" = "PosterBoard가 새로 고쳐졌어야 합니다.\n\n컬렉션이 기본값으로 돌아갔는지 확인하세요.";
+
+"onboarding_skip" = "건너뛰기";
+"onboarding_next" = "다음";
+"onboarding_done" = "완료";
+
+"alert_download_title" = "배경화면 파일 다운로드";
+"alert_download_body" = "“%@” 파일을 다운로드하시겠습니까?";
+"only_tendies_supported" = ".tendies 파일만 지원됩니다!";
+"import_success" = "%@ 가져오기 성공";
+"import_failed" = "가져오기 실패";
+"downloading" = "다운로드 중";
+"please_wait" = "잠시만 기다려주세요...";
+"download_failed" = "배경화면 다운로드에 실패했습니다!";

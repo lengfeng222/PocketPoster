@@ -1,0 +1,80 @@
+/* Localizable.strings - Bulgarian */
+
+"input_app_hash" = "Въведете App Hash";
+"auto_detect" = "Автоматично откриване";
+"waiting_app_hash" = "Изчакване на App Hash...";
+"nugget_instruction" = "Моля, свържете устройството си с компютъра и кликнете върху бутона „Pocket Poster Helper“ в Nugget.";
+"cancel" = "Отказ";
+"section_app_hash" = "App Hash";
+
+"replay_tutorial" = "Повтори урока";
+"clear_cache" = "Изчисти кеша";
+"cache_cleared" = "Кешът е изчистен!";
+"error" = "Грешка";
+"section_actions" = "Действия";
+
+"download_shortcut" = "Изтегли резервен пряк път";
+"create_alternative" = "Създай алтернативен метод";
+"open_nugget" = "Отвори Nugget GitHub";
+"section_links" = "Връзки";
+
+"view_on_github" = "Прегледай в GitHub";
+"join_discord" = "Присъедини се към Discord";
+"support_on_kofi" = "Подкрепи чрез Ko-Fi";
+"section_community" = "Общество";
+
+"section_credits" = "Благодарности";
+"alert_ok" = "ОК";
+"unknown_error" = "Непозната грешка";
+"author_lengfeng" = "Lengfeng";
+"contribution_translation" = "Превод";
+
+"release" = "Версия";
+"select_wallpapers" = "Избери файлове с тапети (Tendies)";
+"selected_wallpapers" = "Избрани тапети";
+"please_set_hash" = "Моля, въведете App Hash на PosterBoard в настройките.";
+"apply" = "Приложи";
+"reset_collection" = "Нулирай колекцията";
+"max_reached" = "Достигнат максимум";
+"max_reached_body" = "Можете да приложите до %d тапета.";
+"ok" = "ОК";
+
+"onboard_welcome_title" = "Добре дошли в Pocket Poster!";
+"onboard_welcome_desc" = "Този урок ще ви помогне да започнете.";
+
+"onboard_shortcut_title" = "Инсталирай резервен пряк път (незадължително)";
+"onboard_shortcut_desc" = "Приложението ще се опита да отвори PosterBoard. Ако не успее, можете да използвате този пряк път като алтернатива.";
+"onboard_shortcut_button" = "Вземи прекия път";
+
+"onboard_nugget_title" = "Инсталирай Nugget";
+"onboard_nugget_desc" = "За да получите Bundle ID на приложението, използвайте Nugget.\n\nИзтеглете го от GitHub на компютъра си.";
+"onboard_nugget_button" = "Отвори GitHub";
+
+"onboard_enjoy_title" = "Насладете се!";
+"onboard_enjoy_desc" = "Посетете Cowabun.ga, за да разгледате красиви тапети.";
+"onboard_enjoy_button" = "Разгледай тапети";
+
+"reset_title_1" = "Как да нулирате колекцията тапети";
+"reset_desc_1" = "Поради ограниченията на текущата уязвимост, тапетите не могат да бъдат изтрити директно.\n\nНеобходимо е да следвате следните стъпки.";
+
+"reset_title_2" = "Отворете езиковите настройки";
+"reset_desc_2" = "Отидете в Настройки > Общи > Език и регион.";
+
+"reset_title_3" = "Задайте основен език";
+"reset_desc_3" = "Променете на друг език,\n\nслед това се върнете към оригиналния.";
+
+"reset_title_4" = "Проверете дали е нулирано успешно";
+"reset_desc_4" = "PosterBoard трябва да бъде обновен.\n\nПроверете дали колекцията е върната към първоначалната.";
+
+"onboarding_skip" = "Пропусни";
+"onboarding_next" = "Следващ";
+"onboarding_done" = "Готово";
+
+"alert_download_title" = "Изтегли файл с тапет";
+"alert_download_body" = "Искате ли да изтеглите „%@“?";
+"only_tendies_supported" = "Само .tendies файлове се поддържат!";
+"import_success" = "Успешно импортиран %@";
+"import_failed" = "Импортирането не бе успешно";
+"downloading" = "Изтегляне";
+"please_wait" = "Моля, изчакайте...";
+"download_failed" = "Неуспешно изтегляне на тапет!";
