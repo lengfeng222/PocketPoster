@@ -1,0 +1,80 @@
+/* Localizable.strings - Czech */
+
+"input_app_hash" = "Zadejte App Hash";
+"auto_detect" = "Automatická detekce";
+"waiting_app_hash" = "Čekání na App Hash...";
+"nugget_instruction" = "Připojte své zařízení k počítači a klikněte na tlačítko 'Pocket Poster Helper' v aplikaci Nugget.";
+"cancel" = "Zrušit";
+"section_app_hash" = "App Hash";
+
+"replay_tutorial" = "Znovu spustit tutoriál";
+"clear_cache" = "Vymazat mezipaměť";
+"cache_cleared" = "Mezipaměť byla vymazána!";
+"error" = "Chyba";
+"section_actions" = "Akce";
+
+"download_shortcut" = "Stáhnout záložní zkratku";
+"create_alternative" = "Vytvořit alternativní metodu";
+"open_nugget" = "Otevřít Nugget na GitHubu";
+"section_links" = "Odkazy";
+
+"view_on_github" = "Zobrazit projekt na GitHubu";
+"join_discord" = "Připojit se ke komunitě na Discordu";
+"support_on_kofi" = "Podpořit na Ko-Fi";
+"section_community" = "Komunita";
+
+"section_credits" = "Poděkování";
+"alert_ok" = "OK";
+"unknown_error" = "Neznámá chyba";
+"author_lengfeng" = "Lengfeng";
+"contribution_translation" = "Překlad";
+
+"release" = "Verze";
+"select_wallpapers" = "Vybrat soubory tapet (Tendies)";
+"selected_wallpapers" = "Vybrané tapety";
+"please_set_hash" = "Zadejte prosím App Hash aplikace PosterBoard v nastavení.";
+"apply" = "Použít";
+"reset_collection" = "Obnovit kolekci";
+"max_reached" = "Dosaženo maxima";
+"max_reached_body" = "Můžete použít maximálně %d tapet.";
+"ok" = "OK";
+
+"onboard_welcome_title" = "Vítejte v Pocket Poster!";
+"onboard_welcome_desc" = "Tento tutoriál vám ukáže základní použití.";
+
+"onboard_shortcut_title" = "Nainstalujte záložní zkratku (volitelné)";
+"onboard_shortcut_desc" = "Aplikace se pokusí otevřít PosterBoard. Pokud selže, můžete nainstalovat tuto zkratku jako alternativu.";
+"onboard_shortcut_button" = "Získat zkratku";
+
+"onboard_nugget_title" = "Nainstalujte nástroj Nugget";
+"onboard_nugget_desc" = "Pro získání Bundle ID aplikace použijte Nugget.\n\nStáhněte jej z GitHubu na svém počítači.";
+"onboard_nugget_button" = "Otevřít GitHub";
+
+"onboard_enjoy_title" = "Užijte si to!";
+"onboard_enjoy_desc" = "Navštivte Cowabun.ga a objevujte krásné tapety.";
+"onboard_enjoy_button" = "Procházet tapety";
+
+"reset_title_1" = "Jak obnovit kolekci tapet";
+"reset_desc_1" = "Kvůli omezením aktuálního exploitu nelze tapety přímo smazat.\n\nJe třeba provést následující kroky ručně.";
+
+"reset_title_2" = "Otevřete nastavení jazyka";
+"reset_desc_2" = "Přejděte do Nastavení > Obecné > Jazyk a oblast.";
+
+"reset_title_3" = "Nastavte hlavní jazyk";
+"reset_desc_3" = "Změňte na libovolný jiný jazyk,\n\na poté se vraťte zpět k původnímu.";
+
+"reset_title_4" = "Ověřte úspěšnost obnovení";
+"reset_desc_4" = "PosterBoard by měl být nyní aktualizován.\n\nZkontrolujte, zda byla kolekce obnovena.";
+
+"onboarding_skip" = "Přeskočit";
+"onboarding_next" = "Další";
+"onboarding_done" = "Hotovo";
+
+"alert_download_title" = "Stáhnout soubor tapety";
+"alert_download_body" = "Chcete stáhnout „%@“?";
+"only_tendies_supported" = "Jsou podporovány pouze soubory .tendies!";
+"import_success" = "Úspěšně importováno: %@";
+"import_failed" = "Import selhal";
+"downloading" = "Stahování";
+"please_wait" = "Počkejte prosím...";
+"download_failed" = "Nepodařilo se stáhnout tapetu!";

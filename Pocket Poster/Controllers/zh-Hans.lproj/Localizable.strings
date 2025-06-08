@@ -1,0 +1,80 @@
+/* Localizable.strings - 简体中文 */
+
+"input_app_hash" = "输入 App 哈希值";
+"auto_detect" = "自动检测";
+"waiting_app_hash" = "正在等待 App 哈希值...";
+"nugget_instruction" = "请将设备连接到电脑，并在 Nugget 中点击“Pocket Poster 助手”按钮。";
+"cancel" = "取消";
+"section_app_hash" = "App 哈希值";
+
+"replay_tutorial" = "重新查看教程";
+"clear_cache" = "清除缓存";
+"cache_cleared" = "缓存已清除！";
+"error" = "错误";
+"section_actions" = "操作";
+
+"download_shortcut" = "下载备用快捷指令";
+"create_alternative" = "创建替代方法";
+"open_nugget" = "打开 Nugget GitHub";
+"section_links" = "链接";
+
+"view_on_github" = "在 GitHub 查看项目";
+"join_discord" = "加入 Discord 社区";
+"support_on_kofi" = "在 Ko-Fi 上支持";
+"section_community" = "社区";
+
+"section_credits" = "致谢";
+"alert_ok" = "好的";
+"unknown_error" = "未知错误";
+"author_lengfeng" = "冷风";
+"contribution_translation" = "汉化";
+
+"release" = "版本";
+"select_wallpapers" = "选择壁纸文件（Tendies）";
+"selected_wallpapers" = "已选壁纸";
+"please_set_hash" = "请在设置中输入 PosterBoard 的 App 哈希值。";
+"apply" = "应用";
+"reset_collection" = "重置合集";
+"max_reached" = "已达到最大数量";
+"max_reached_body" = "最多只能应用 %d 个壁纸。";
+"ok" = "确定";
+
+"onboard_welcome_title" = "欢迎使用 Pocket Poster！";
+"onboard_welcome_desc" = "本教程将引导你快速上手使用本应用。";
+
+"onboard_shortcut_title" = "安装备用快捷指令（可选）";
+"onboard_shortcut_desc" = "应用将尝试打开 PosterBoard。如果失败，你可以安装此快捷指令作为替代方案。";
+"onboard_shortcut_button" = "获取快捷指令";
+
+"onboard_nugget_title" = "安装 Nugget 工具";
+"onboard_nugget_desc" = "要获取 App 的 Bundle ID，请使用 Nugget。\n\n请在电脑上从 GitHub 下载。";
+"onboard_nugget_button" = "打开 GitHub";
+
+"onboard_enjoy_title" = "尽情享受吧！";
+"onboard_enjoy_desc" = "你可以前往 Cowabun.ga 官网查找精美壁纸。";
+"onboard_enjoy_button" = "浏览壁纸";
+
+"reset_title_1" = "如何重置壁纸合集";
+"reset_desc_1" = "由于当前漏洞机制，无法直接删除壁纸文件。\n\n你需要手动执行以下步骤。";
+
+"reset_title_2" = "打开语言设置";
+"reset_desc_2" = "进入 设置 > 通用 > 语言与地区。";
+
+"reset_title_3" = "设置主要语言";
+"reset_desc_3" = "你可以设置成任意语言，\n\n之后再切换回原始语言即可。";
+
+"reset_title_4" = "确认是否重置成功";
+"reset_desc_4" = "PosterBoard 应该已经刷新。\n\n请检查合集是否恢复默认。";
+
+"onboarding_skip" = "跳过";
+"onboarding_next" = "下一步";
+"onboarding_done" = "完成";
+
+"alert_download_title" = "下载壁纸文件";
+"alert_download_body" = "是否下载“%@”？";
+"only_tendies_supported" = "仅支持 .tendies 类型文件！";
+"import_success" = "成功导入 %@";
+"import_failed" = "导入失败";
+"downloading" = "正在下载";
+"please_wait" = "请稍候...";
+"download_failed" = "无法下载壁纸！";

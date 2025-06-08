@@ -1,0 +1,80 @@
+/* Localizable.strings - Spanish (Latin America) */
+
+"input_app_hash" = "Ingresar App Hash";
+"auto_detect" = "Detección Automática";
+"waiting_app_hash" = "Esperando App Hash...";
+"nugget_instruction" = "Conecta tu dispositivo a la computadora y haz clic en el botón 'Pocket Poster Helper' en Nugget.";
+"cancel" = "Cancelar";
+"section_app_hash" = "App Hash";
+
+"replay_tutorial" = "Repetir Tutorial";
+"clear_cache" = "Borrar Caché";
+"cache_cleared" = "¡Caché Borrado!";
+"error" = "Error";
+"section_actions" = "Acciones";
+
+"download_shortcut" = "Descargar Atajo de Respaldo";
+"create_alternative" = "Crear Método Alternativo";
+"open_nugget" = "Abrir GitHub de Nugget";
+"section_links" = "Enlaces";
+
+"view_on_github" = "Ver Proyecto en GitHub";
+"join_discord" = "Unirse a la Comunidad en Discord";
+"support_on_kofi" = "Apoyar en Ko-Fi";
+"section_community" = "Comunidad";
+
+"section_credits" = "Créditos";
+"alert_ok" = "OK";
+"unknown_error" = "Error desconocido";
+"author_lengfeng" = "Lengfeng";
+"contribution_translation" = "Traducción";
+
+"release" = "Versión";
+"select_wallpapers" = "Seleccionar Archivos de Fondo (Tendies)";
+"selected_wallpapers" = "Fondos Seleccionados";
+"please_set_hash" = "Por favor, ingresa el hash de la app de PosterBoard en Configuración.";
+"apply" = "Aplicar";
+"reset_collection" = "Restablecer Colección";
+"max_reached" = "Límite Alcanzado";
+"max_reached_body" = "Solo puedes aplicar hasta %d fondos.";
+"ok" = "OK";
+
+"onboard_welcome_title" = "¡Bienvenido a Pocket Poster!";
+"onboard_welcome_desc" = "Este tutorial te guiará en el uso básico de la app.";
+
+"onboard_shortcut_title" = "Instalar Atajo de Respaldo (Opcional)";
+"onboard_shortcut_desc" = "La app intentará abrir PosterBoard. Si falla, puedes instalar este atajo como alternativa.";
+"onboard_shortcut_button" = "Obtener Atajo";
+
+"onboard_nugget_title" = "Instalar Herramienta Nugget";
+"onboard_nugget_desc" = "Para obtener el ID del paquete de la app, usa Nugget.\n\nDescárgalo desde GitHub en tu computadora.";
+"onboard_nugget_button" = "Abrir GitHub";
+
+"onboard_enjoy_title" = "¡Disfruta!";
+"onboard_enjoy_desc" = "Visita Cowabun.ga para encontrar fondos hermosos.";
+"onboard_enjoy_button" = "Buscar Fondos";
+
+"reset_title_1" = "Cómo Restablecer la Colección de Fondos";
+"reset_desc_1" = "Debido a limitaciones del exploit actual, no se pueden eliminar fondos directamente.\n\nDebes realizar los siguientes pasos manualmente.";
+
+"reset_title_2" = "Abrir Configuración de Idioma";
+"reset_desc_2" = "Ve a Configuración > General > Idioma y Región.";
+
+"reset_title_3" = "Establecer Idioma Principal";
+"reset_desc_3" = "Cambia a otro idioma,\n\ny luego vuelve a tu idioma original.";
+
+"reset_title_4" = "Verificar si se Restableció";
+"reset_desc_4" = "PosterBoard debería haberse actualizado.\n\nVerifica si la colección volvió a la predeterminada.";
+
+"onboarding_skip" = "Omitir";
+"onboarding_next" = "Siguiente";
+"onboarding_done" = "Hecho";
+
+"alert_download_title" = "Descargar Archivo de Fondo";
+"alert_download_body" = "¿Deseas descargar \"%@\"?";
+"only_tendies_supported" = "¡Solo se admiten archivos .tendies!";
+"import_success" = "%@ importado con éxito";
+"import_failed" = "Error al importar";
+"downloading" = "Descargando";
+"please_wait" = "Por favor, espera...";
+"download_failed" = "¡No se pudo descargar el fondo!";

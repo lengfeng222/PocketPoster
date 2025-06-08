@@ -1,0 +1,80 @@
+/* Localizable.strings - Japanese */
+
+"input_app_hash" = "アプリハッシュを入力";
+"auto_detect" = "自動検出";
+"waiting_app_hash" = "アプリハッシュを待機中...";
+"nugget_instruction" = "デバイスをパソコンに接続し、Nugget 内の「Pocket Poster Helper」ボタンをクリックしてください。";
+"cancel" = "キャンセル";
+"section_app_hash" = "アプリハッシュ";
+
+"replay_tutorial" = "チュートリアルを再生";
+"clear_cache" = "キャッシュをクリア";
+"cache_cleared" = "キャッシュを削除しました！";
+"error" = "エラー";
+"section_actions" = "操作";
+
+"download_shortcut" = "バックアップショートカットをダウンロード";
+"create_alternative" = "代替手段を作成";
+"open_nugget" = "Nugget GitHub を開く";
+"section_links" = "リンク";
+
+"view_on_github" = "GitHub でプロジェクトを見る";
+"join_discord" = "Discord コミュニティに参加";
+"support_on_kofi" = "Ko-Fi で支援する";
+"section_community" = "コミュニティ";
+
+"section_credits" = "クレジット";
+"alert_ok" = "OK";
+"unknown_error" = "不明なエラー";
+"author_lengfeng" = "冷風";
+"contribution_translation" = "翻訳";
+
+"release" = "リリース";
+"select_wallpapers" = "壁紙ファイル（Tendies）を選択";
+"selected_wallpapers" = "選択された壁紙";
+"please_set_hash" = "設定で PosterBoard のアプリハッシュを入力してください。";
+"apply" = "適用";
+"reset_collection" = "コレクションをリセット";
+"max_reached" = "上限に達しました";
+"max_reached_body" = "最大 %d 枚の壁紙しか適用できません。";
+"ok" = "OK";
+
+"onboard_welcome_title" = "Pocket Poster へようこそ！";
+"onboard_welcome_desc" = "このチュートリアルでは基本的な使い方を案内します。";
+
+"onboard_shortcut_title" = "バックアップショートカットをインストール（任意）";
+"onboard_shortcut_desc" = "アプリは PosterBoard を開こうとします。失敗した場合は、代替手段としてこのショートカットをインストールしてください。";
+"onboard_shortcut_button" = "ショートカットを取得";
+
+"onboard_nugget_title" = "Nugget ツールをインストール";
+"onboard_nugget_desc" = "アプリの Bundle ID を取得するには Nugget を使用します。\n\nパソコンで GitHub からダウンロードしてください。";
+"onboard_nugget_button" = "GitHub を開く";
+
+"onboard_enjoy_title" = "お楽しみください！";
+"onboard_enjoy_desc" = "Cowabun.ga の公式サイトで美しい壁紙を探索できます。";
+"onboard_enjoy_button" = "壁紙を見る";
+
+"reset_title_1" = "壁紙コレクションのリセット方法";
+"reset_desc_1" = "現在の exploit の制限により、壁紙を直接削除することはできません。\n\n次の手順を手動で行う必要があります。";
+
+"reset_title_2" = "言語設定を開く";
+"reset_desc_2" = "設定アプリ > 一般 > 言語と地域 に移動します。";
+
+"reset_title_3" = "主な言語を設定";
+"reset_desc_3" = "別の言語に変更し、\n\n元の言語に戻してください。";
+
+"reset_title_4" = "リセットが成功したか確認";
+"reset_desc_4" = "PosterBoard がリフレッシュされているはずです。\n\nコレクションが初期状態に戻っているか確認してください。";
+
+"onboarding_skip" = "スキップ";
+"onboarding_next" = "次へ";
+"onboarding_done" = "完了";
+
+"alert_download_title" = "壁紙ファイルのダウンロード";
+"alert_download_body" = "「%@」をダウンロードしますか？";
+"only_tendies_supported" = ".tendies ファイルのみ対応しています！";
+"import_success" = "「%@」をインポートしました";
+"import_failed" = "インポートに失敗しました";
+"downloading" = "ダウンロード中";
+"please_wait" = "しばらくお待ちください...";
+"download_failed" = "壁紙のダウンロードに失敗しました！";
