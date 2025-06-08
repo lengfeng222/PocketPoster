@@ -12,6 +12,7 @@ Download [Nugget](https://github.com/leminlimez/Nugget) on your computer and plu
 - [PosterRestore][PosterRestoreDiscord] for their help with PosterBoard
 - [dootskyre][dootskyreX] for the fallback shortcut
 - [Nathan](https://github.com/verygenericname) and [DuyKhanhTran](https://github.com/khanhduytran0) for the exploit
+- Translated by 冷风 (Leng Feng)
 
 [PosterRestoreDiscord]: https://discord.gg/gWtzTVhMvh
 [dootskyreX]: https://x.com/dootskyre
